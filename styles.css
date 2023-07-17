@@ -1,0 +1,15 @@
+img {
+  width: 200px;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  color: #8b0000;
+}
+
+.recipe-card {
+  width: 400px;
+}
